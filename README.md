@@ -1,6 +1,31 @@
-## Hello there
 
-<div id="header" align="center">
-  <p>Hi, i'm an italian developer currently pursuing my bachelor degree in Computer Science.</p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ5emVpa21qY2I5d2ZhNXY0emkwMGN0bXMybTFjajNsejB4eTk5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yBQraVyL7N28/giphy.gif"/>
-</div>
+
+```
+ __  __ ___ ____ _   _ _____ _     _____
+|  \/  |_ _/ ___| | | | ____| |   | ____|
+| |\/| || | |   | |_| |  _| | |   |  _|
+| |  | || | |___|  _  | |___| |___| |___
+|_|  |_|___\____|_| |_|_____|_____|_____|
+  DI MEO · JUNIOR FRONTEND & UI DEVELOPER
+```
+
+### `// ABOUT`
+
+```
+CS student @UNISA (2026)
+Graphic Design background (ILAS)
+Building interfaces that look good AND work well.
+```
+
+---
+
+### `// STACK`
+
+![React](https://img.shields.io/badge/React-0a0a1a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a1a?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a1a?style=flat-square&logo=mongodb&logoColor=47A248)
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=flat-square&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=flat-square&logo=docker&logoColor=2496ED)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a1a?style=flat-square&logo=css3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/Figma-0a0a1a?style=flat-square&logo=figma&logoColor=F24E1E)
