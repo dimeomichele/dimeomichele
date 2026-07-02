@@ -6,7 +6,7 @@
 | |\/| || | |   | |_| |  _| | |   |  _|
 | |  | || | |___|  _  | |___| |___| |___
 |_|  |_|___\____|_| |_|_____|_____|_____|
-  DI MEO · JUNIOR FRONTEND & UI DEVELOPER
+  DI MEO · DEVELOPER
 ```
 
 ### `// ABOUT`
