@@ -1,5 +1,5 @@
-<h1>Ciao, sono Michele</h1>
-<h3>Mi piacciono i computer :)</h3>
+<h1>Hi, I'm Michele</h1>
+<h3>I like Computers :)</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=CS+student+%40+UNISA+%F0%9F%8E%93;" alt="Typing SVG" />
@@ -7,12 +7,12 @@
 
 ---
 
-### 🧑‍🎓 `chi sono`
+### 🧑‍🎓 `Who am I`
 
 ```js
 const michele = {
-  studia: "Computer Science @ UNISA",
-  certificato: "Graphic Designer @ ILAS",
+  Studying: "Computer Science @ UNISA",
+  Certificated: "Graphic Designer @ ILAS",
 };
 ```
 
