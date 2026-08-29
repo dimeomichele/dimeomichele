@@ -34,16 +34,12 @@ const michele = {
 
 ### 📊 `Stats`
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dimeomichele&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimeomichele&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimeomichele&theme=radical&hide_border=true" />
 </p>
 
-### 📫 `Socials`
+### 📫 `Contacts`
 
 <p align="left">
   <a href="#https://www.linkedin.com/in/michele-di-meo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
